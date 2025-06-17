@@ -1,9 +1,5 @@
 # 📝 Handwritten Japanese Character Recognition — KMNIST Deep Learning Experiments
 
-**Student:** Drishya Lal Chuke  
-**Subject:** 94691 Deep Learning – Autumn 2025  
-**Student ID:** 25076922
-
 ---
 
 ## 📂 Overview
