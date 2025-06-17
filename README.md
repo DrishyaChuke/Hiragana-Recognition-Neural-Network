@@ -76,4 +76,4 @@ I built and compared multiple fully connected neural network architectures to un
 - **Future Improvements:** Try CNNs, data augmentation, better hyperparameter tuning.
 
 ---
-
+*Project Report (https://github.com/DrishyaChuke/Hiragana-Recognition-Neural-Network/blob/main/Report_PartB_25076922.pdf)
