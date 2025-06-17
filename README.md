@@ -1,9 +1,5 @@
 # 📝 Handwritten Japanese Character Recognition — KMNIST Deep Learning Experiments
 
----
-
-## 📂 Overview
-
 This repository contains my experiments and findings for handwritten Hiragana character recognition using the KMNIST dataset.  
 I built and compared multiple fully connected neural network architectures to understand how model capacity and regularization affect performance.
 
